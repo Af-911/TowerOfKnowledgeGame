@@ -1,2 +1,2 @@
 print("Hello world!")
-print("This just a regular test")
+print("This just a testing test")
