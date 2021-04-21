@@ -2,7 +2,6 @@ from sys import exit
 
 # Welcome to the main code of TowerOfKnowledge game 
 # Just have fun playing it GoodLuck!
-# Please give feedback here: email: ayoubfatihi1999@gmail.com
 
 print('\n\nThis game is inspired from the game-book "LA TOUR AUX 100 MENACES" authored by '
 	'Jean-Luc BIZIEN and Didier GRAFFET'
