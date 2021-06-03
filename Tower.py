@@ -5,7 +5,6 @@ from sys import exit
 
 print('\n\nThis game is inspired from the game-book "LA TOUR AUX 100 MENACES" authored by '
 	'Jean-Luc BIZIEN and Didier GRAFFET'
-
 	'\n\tYou are Elric, a youg boy who is always isolated in the basement of the house of '
 	'his grandparents. There, seated in the half-light, you love paging through old books.'
 	'This afternoon, you discovered an worn-out work, with a brown leather cover orned with'
