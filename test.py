@@ -5,4 +5,4 @@ print("This just a testing test!")
 for i in range(20):
   print("Testing ...")
 
-print("All set
+print("All set!")
