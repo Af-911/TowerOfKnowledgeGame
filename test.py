@@ -1,8 +1,8 @@
 print("Hello world!")
 print("This just a testing test!")
 
-# Testing ...
+# Testing ....
 for i in range(27):
-  print("Testing ...")
+  print("Testing ..................")
 
 print("All set!")
